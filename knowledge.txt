@@ -1,0 +1,32 @@
+    Dawood Medical Center - Dubai Branch
+        Location: Al Rigga Road, Deira, Dubai
+        Doctors:
+            Dr. Fatima Ahmed
+            Dr. Mohammad Khan
+            Dr. Sarah Abbas
+        Availability:
+            Dr. Fatima Ahmed: Monday, Wednesday, Friday - 9:00 AM to 1:00 PM
+            Dr. Mohammad Khan: Tuesday, Thursday, Saturday - 10:00 AM to 2:00 PM
+            Dr. Sarah Abbas: Monday, Wednesday, Friday - 3:00 PM to 7:00 PM
+
+    Dawood Medical Center - Abu Dhabi Branch
+        Location: Hamdan Street, Abu Dhabi
+        Doctors:
+            Dr. Ahmed Hassan
+            Dr. Aisha Malik
+            Dr. Kareem Shah
+        Availability:
+            Dr. Ahmed Hassan: Sunday, Tuesday, Thursday - 8:00 AM to 12:00 PM
+            Dr. Aisha Malik: Monday, Wednesday, Friday - 1:00 PM to 5:00 PM
+            Dr. Kareem Shah: Tuesday, Thursday, Saturday - 2:00 PM to 6:00 PM
+
+    Dawood Medical Center - Sharjah Branch
+        Location: Al Taawun Street, Al Taawun, Sharjah
+        Doctors:
+            Dr. Mariam Farooq
+            Dr. Youssef Ibrahim
+            Dr. Sara Ali
+        Availability:
+            Dr. Mariam Farooq: Sunday, Tuesday, Thursday - 9:00 AM to 1:00 PM
+            Dr. Youssef Ibrahim: Monday, Wednesday, Friday - 10:00 AM to 2:00 PM
+            Dr. Sara Ali: Tuesday, Thursday, Saturday - 3:00 PM to 7:00 PM
